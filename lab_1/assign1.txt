@@ -19,7 +19,7 @@
   57
   74
 
-5)count(english)
+5)count(eng)
   3
 
 6)name 
