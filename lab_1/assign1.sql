@@ -11,7 +11,7 @@ select name,rollno from Student where math>80 or sci>80;
 select distinct social from Student;
 
 -- question 5
-select count(english) from Student where english<70;
+select count(eng) from Student where eng<70;
 
 -- question 6
 select name from Student order by math + sci desc;
@@ -25,7 +25,7 @@ select sum(cap) from Campus where engg=0;
           -- ratio = 3000/1500
 
 -- question 9
-select name from Student where math>70 and sci>70 and english>70 and social>70 and sports>70;
+select name from Student where math>70 and sci>70 and eng>70 and social>70 and sports>70;
 
 -- question 10
 select count(rollno) from Student where rollno>0 and rollno<21;
