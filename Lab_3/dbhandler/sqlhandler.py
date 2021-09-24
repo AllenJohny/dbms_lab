@@ -44,6 +44,7 @@ class Mysqlhandler:
    myresult = cursor.fetchall()
    for x in myresult:
       print(x)
+      return myresult
       
   if __name__=="__main__":
     
