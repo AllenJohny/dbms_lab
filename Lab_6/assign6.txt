@@ -78,4 +78,15 @@
    dave 	27	1999-09-11	2018	M	A	110	mvc	110	vel	631001	1400	1	1	1
    jean 	46	2000-06-19	2019	F	G	110	mvc	110	vel	631001	1400	1	1	1
    carol	7	2000-06-19	2018	F	W	113	mbd	113	bgl	560002	800	0	1	1
+
+
+
+
+
+  Null values occurs due to unequal number of rows in the 2 tables.
+
+
+
+
+
  
